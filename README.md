@@ -22,4 +22,4 @@ Mouse ile etkileşimli, dinamik emoji efektleri oluşturan bir web projesi.
 
 1. Depoyu klonlayın:
 ```bash
-git clone https://github.com/username/screen-fire-effect.git
+git clone https://github.com/MOHAMAD-ALDEBS/screen-fire-effect.git
