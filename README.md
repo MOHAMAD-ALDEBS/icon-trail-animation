@@ -1,50 +1,23 @@
-# 📚 Full-Stack Practice Projects
+# Screen Fire Effect 🎯
 
-A collection of small frontend and backend practice projects built to improve my skills in HTML, CSS, JavaScript, Node.js, Express, and MongoDB.
+Mouse ile etkileşimli, dinamik emoji efektleri oluşturan bir web projesi.
 
-This repository is mainly for learning, experimenting, and building a portfolio of simple but useful applications.
+## ✨ Özellikler
 
-## 🚀 Goals of This Repository
+- **Real-time Mouse Tracking**: Mouse hareketlerini gerçek zamanlı takip
+- **Dinamik Emoji Efektleri**: Her mouse hareketinde rastgele boyutlarda emoji oluşturma
+- **Animasyonlu Geçişler**: CSS animasyonları ile yumuşak geçişler
+- **Otomatik Temizleme**: 3 saniye sonra otomatik element temizleme
+- **Responsive Tasarım**: Tüm ekran boyutlarına uyumlu
 
-* Strengthen my HTML & CSS fundamentals
-* Improve in JavaScript (DOM, events, ES6+)
-* Build practical frontend components
-* Understand backend basics with Node.js + Express
-* Learn how to work with databases using MongoDB + Mongoose
-* Practice creating REST APIs and CRUD operations
-* Build small, complete full-stack applications
+## 🛠️ Teknolojiler
 
-I will update and reorganize these as I learn more.
+- **HTML5** - Yapısal temel
+- **CSS3** - Animasyonlar ve stil
+- **Vanilla JavaScript** - Dinamik etkileşimler
 
-## 🛠️ Technologies Used
+## 🚀 Kurulum
 
-### Frontend
-* HTML5
-* CSS3
-* JavaScript (DOM, Events, ...
-
-### Backend
-* Node.js
-
-
-## ✔️ What I Will Build in This Repo
-
-* Full-stack mini apps
-
-Each project helps me improve step by step.
-
-## 🎯 Purpose
-
-This repository is created for:
-
-* Learning by doing
-* Experimenting with ideas
-* Practicing real development workflows
-* Building a strong foundation in full-stack development
-* Creating small projects for my portfolio
-
-Progress matters more than perfection.
-
-## 📌 Notes
-
-This repository will be regularly updated as I continue learning and building new projects.
+1. Depoyu klonlayın:
+```bash
+git clone https://github.com/username/screen-fire-effect.git
