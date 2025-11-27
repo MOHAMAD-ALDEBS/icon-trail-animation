@@ -2,7 +2,9 @@
 
 Mouse ile etkileşimli, dinamik emoji efektleri oluşturan bir web projesi.
 
-[📺 Demo Videosunu İzle](https://mohamad-aldebs.github.io/icon-trail-animation/img/scrshot.mp4)
+![Screen Fire Effect Demo]([./img/demo.gif](https://github.com/MOHAMAD-ALDEBS/icon-trail-animation/blob/87130ca25b7c379aebcfc80bb6fe37ff15b29d5b/img/Animation.gif))
+
+*Fareyi hareket ettirerek oluşan emoji efektleri*
 
 ## ✨ Özellikler
 
