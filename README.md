@@ -14,9 +14,9 @@ Mouse ile etkileşimli, dinamik emoji efektleri oluşturan bir web projesi.
 
 ## 🛠️ Teknolojiler
 
-- **HTML5** - Yapısal temel
-- **CSS3** - Animasyonlar ve stil
-- **Vanilla JavaScript** - Dinamik etkileşimler
+- **HTML** - Yapısal temel
+- **CSS** - Animasyonlar ve stil
+- **JavaScript** - Dinamik etkileşimler
 
 ## 🚀 Kurulum
 
